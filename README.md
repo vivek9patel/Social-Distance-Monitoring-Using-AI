@@ -10,3 +10,6 @@ We are going to develop 2 Mobile Apps to fight against COVID-19.
 -Along with this we will provide various information in our App like Current Statistics of Corona in India, Precautions to be taken and many more.
 
 -So a unique idea of 2 APPs is presented by our team.
+
+### Team number : eYRC#1164
+### Team Members : Vivek Patel, Tirth Patel, Rushi Patel, Jay Patel
